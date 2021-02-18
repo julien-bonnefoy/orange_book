@@ -1,0 +1,18 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: 1_cover
+
+- part: Introduction
+  chapters:
+  - file: 2a_contexte
+  - file: 2b_objectifs_et_contraintes
+  - file: 2c_motivations_et_enjeux
+
+- part: Developpement
+  chapters:
+  - file: 3_preliminaires
+    sections:
+      - file: 3a_learning_objects
+      # - file: content/ipynb/3b_skills_and_jobs
+      # - file: content/ipynb/3c_matching
